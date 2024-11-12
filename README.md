@@ -2,8 +2,8 @@
 
 Here is a short and concise README for your Python script:
 
-# Main.py
-## Quadratic Equation Solver
+## Main.py
+### Quadratic Equation Solver
 
 This Python script calculates the roots of a quadratic equation and performs additional computations based on the given coefficients.
 
